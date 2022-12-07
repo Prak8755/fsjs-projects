@@ -1,0 +1,74 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+body{
+    margin: 0px;
+}
+.container{
+    background-color: aqua;
+    height: 800px;
+    width: 100%;
+    position: relative;
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.navbar{
+    background-color: black;
+    height: 150px;
+    width:100%;
+
+}
+ul li{
+    display: inline;
+    
+   
+}
+.logo{
+    position: absolute;
+    left: 20px;
+    top:20px;
+}
+
+.grow-list{
+    position: absolute;
+    left: 200px;
+    top:50px;
+}
+
+.button-small{
+    position: absolute;
+    left: 1200px;
+    top:70px;
+}
+
+.hero-heading{
+    color:white;
+    font-size: 80px;
+}
+.hero-description{
+ color: white;
+ font-size: 30px;
+}
+
+.hero{
+    position: absolute;
+    top:150px;
+    left:400px;
+}
+.button-small{
+    height: 30px;
+    width: 150px;
+    background-color: darkorchid;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.button-large{
+    height: 50px;
+    width:300px;
+    color: aliceblue;
+    background-color: darkorchid;
+    border-radius: 10px;
+}

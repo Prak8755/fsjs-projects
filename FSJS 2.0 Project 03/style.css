@@ -1,0 +1,84 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+.container{
+    position:relative;
+    height: 800px;
+    width:100%;
+
+}
+.body{
+    margin:0px;
+}
+.nav-button{
+    position: absolute;
+    top:50px;
+    left:1250px;
+    border-radius: 5px;
+    padding: 6px;
+    width: 120px;
+}
+
+.search-icon{
+    position: absolute;
+    top:50px;
+    left:1200px;
+    
+}
+ul li{
+    display: inline;
+}
+.list{
+    position: absolute;
+    left:400px;
+    top:40px;
+    font-size: 25px;
+}
+.image{
+    position:absolute;
+    left:80px;
+    top:40px;
+}
+.square{
+    position: absolute;
+    top:370px;
+    left:180px;
+    
+}
+.globe{
+    position: absolute;
+    top:150px;
+    left:800px;
+}
+.star{
+    position: absolute;
+    top:200px;
+    left:1200px;
+}
+         
+.person{
+    position: absolute;
+    top:220px;
+    left:70px;
+    
+   
+}
+
+.hero-container-right{
+    position: absolute;
+    top: 300px;
+    left:700px;
+    
+}
+.hero-heading{
+    font-size: 60px;
+}
+.button-join{
+    background-color: black;
+    color: white;
+}
+.star2{
+    position: absolute;
+    top: 670px;
+    left:660px;
+   
+}
