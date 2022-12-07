@@ -1,0 +1,48 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+.container{
+    height:800px;
+    width:100%;
+    background:white;
+    position:relative;
+}
+.Image{
+    position: absolute;
+    top: 60px;
+    left:100px;
+    
+}
+
+.nav-bar{
+    position: absolute;
+    top:80px;
+    left:400px;
+
+}
+.button-group{
+    position:absolute;
+    top:80px;
+    left:1200px;
+}
+.button2-group{
+    position: absolute;
+    left:100px;
+    top:200px;
+    width:20%;
+    height: 30%;
+}
+
+.button3-group{
+    position: absolute;
+    top:200px;
+    left:550px;
+}
+.button3-group img{
+    height: 600px;
+    width:800px;
+    
+
+}
+
+
